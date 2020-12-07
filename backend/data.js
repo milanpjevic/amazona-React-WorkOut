@@ -17,7 +17,6 @@ const data = {
 	],
 	products: [
 		{
-			_id: 1,
 			name: "Nike Slim Shirt",
 			category: "Shirts",
 			image: "../images/p1.jpg",
@@ -29,7 +28,6 @@ const data = {
 			countInStock: 10,
 		},
 		{
-			_id: 2,
 			name: "Addidas Slim Shirt",
 			category: "Shirts",
 			image: "../images/p2.jpg",
@@ -41,7 +39,6 @@ const data = {
 			countInStock: 20,
 		},
 		{
-			_id: 3,
 			name: "Lacoste Slim Shirt",
 			category: "Shirts",
 			image: "../images/p3.jpg",
@@ -53,7 +50,6 @@ const data = {
 			countInStock: 0,
 		},
 		{
-			_id: 4,
 			name: "Nike Slim Pants",
 			category: "Pants",
 			image: "../images/p4.jpg",
@@ -65,7 +61,6 @@ const data = {
 			countInStock: 15,
 		},
 		{
-			_id: 5,
 			name: "Puma Slim Pants",
 			category: "Pants",
 			image: "../images/p5.jpg",
@@ -77,7 +72,6 @@ const data = {
 			countInStock: 5,
 		},
 		{
-			_id: 6,
 			name: "Addidas Fit Pants",
 			category: "Pants",
 			image: "../images/p6.jpg",
