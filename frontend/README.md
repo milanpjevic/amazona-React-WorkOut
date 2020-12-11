@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+CREATE REGISTER SCREEN AND BACKEND API
+
+1. Create API for /api/users/register
+2. Insert new user to database
+3. Return user info and token
+4. create RegisterScreen
+5. Add fields
+6. Add screen to App.js
