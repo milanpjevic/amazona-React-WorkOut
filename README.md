@@ -12,4 +12,10 @@ CREATE PAYMENT SCREEN
 CREATE PLACEORDER SCREEN
 
 1. create place oreder screen
-2. implement consta
+
+CREATE PLACEHOLDER API
+
+1. create order API
+2. create order model
+3. create order Router
+4. create post order route
