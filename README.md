@@ -19,3 +19,8 @@ CREATE PLACEHOLDER API
 2. create order model
 3. create order Router
 4. create post order route
+
+IMPLEMENT PLACEORDER ACTION
+
+1. handle place order button click
+2. create place order constants, action and reducer
